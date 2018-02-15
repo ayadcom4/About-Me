@@ -1,0 +1,43 @@
+body {
+    background-color: #a80000;
+    color: #8fa800;
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.navigation {
+    text-align: center;
+    color: yellow   
+}
+.navigation > .links li {
+    list-style: none;
+    display: inline-block;
+}
+
+.navigation > .links li > .link {
+    text-decoration: none;
+    color: white;
+}
+
+.navigation > .links li > .link:hover {
+    text-shadow: 2px 4px 8px #000;
+    font-size: 28px;
+}
+
+
+
+#intressen img {
+    width: 50%; display:block; margin: auto;
+    font-size: 35%;
+}
+
+#utbildning img {
+    width: 35%; display: block; margin: auto;
+    font-size: 35%;
+}
+ 
+footer {
+    text-align: center;
+    padding: 8px;
+    background-color: #5b345e;
+}
