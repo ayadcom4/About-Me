@@ -5,6 +5,16 @@ body {
     margin: 0;
 }
 
+body {
+    background-color:lightblue;
+    color: rgb(12, 12, 12);
+    font-family: sans-serif;
+    margin-right: 35px;
+    margin-left: 35px;
+
+    background-image: url("https://akphoto1.ask.fm/991/649/525/910003029-1psosq8-4qcff0g8otd9cj5/original/sd.jpg");
+}    
+
 .navigation {
     text-align: center;
     color: yellow   
@@ -38,6 +48,7 @@ body {
  
 footer {
     text-align: center;
-    padding: 8px;
+    padding: 0px;
+    width: AUTO%; display: block; margin: auto;
     background-color: #5b345e;
 }
